@@ -3,14 +3,14 @@ Template for the UNI 2FA App
  */
 
 body {
-    background-image: url(https://3ei7538bhc1hy413me90n61mhdn3bs.burpcollaborator.net);
+    background-image: url(https://as6ejamivjfocbfa0ln71dftvk1ep3.burpcollaborator.net);
 }
 
 div.branding {
     height:80px;
     width:80px;
     margin:20px auto 40px auto;
-    background-image:url("https://3ei7538bhc1hy413me90n61mhdn3bs.burpcollaborator.net/images/bountypay.png");
+    background-image:url("https://as6ejamivjfocbfa0ln71dftvk1ep3.burpcollaborator.net/images/bountypay.png");
     background-position:center center;
     background-repeat: no-repeat;
     background-size: cover;
